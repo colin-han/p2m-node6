@@ -1,3 +1,3 @@
 FROM node:6
 
-RUN npm install -g yarn sequelize-cli babel-cli
+RUN npm install -g sequelize-cli babel-cli
